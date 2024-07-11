@@ -1,4 +1,4 @@
-**BIKE SALES DASHBOARD IN EXCEL**
+# **BIKE SALES DASHBOARD IN EXCEL**
 
 I did 3 steps in this project:
 1. Data cleaning:

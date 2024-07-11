@@ -5,7 +5,6 @@ I did 3 steps in this project:
    1.1 I used Find and replace to change M and S in marriedarital Singlestatus column and make more clear 
        M >> married 
        S >> Single 
-
        And Gender Column 
        F >> Female 
        M >> Male 
